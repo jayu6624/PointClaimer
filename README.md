@@ -1,4 +1,4 @@
-<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/a7173380-d279-4d17-a35f-c2cf05740d5f" />
+
 # 🏆 PointClaimer
 
 A real-time, gamified leaderboard system built with React, Tailwind CSS, Framer Motion, and Node.js backend.
@@ -17,7 +17,12 @@ A real-time, gamified leaderboard system built with React, Tailwind CSS, Framer 
 ### 📱 Mobile View
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/b4ab83be-4c46-481a-b0f8-d7719c7de06f" />
 
-![Product Screenshot](./public/i1.png)
+<img width="1898" height="915" alt="image" src="https://github.com/user-attachments/assets/fa87dafb-a061-4401-b7d7-6e2087b43234" />
+
+<img width="456" height="817" alt="image" src="https://github.com/user-attachments/assets/058e61d9-3b15-4f1e-975a-ca1302574363" />
+
+<img width="442" height="801" alt="image" src="https://github.com/user-attachments/assets/93613cf7-3b0c-43f2-9b38-b713defe5128" />
+
 
 > Replace `public/mobile-screenshot.png` with your own screenshot for best results.
 
