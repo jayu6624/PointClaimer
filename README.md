@@ -15,7 +15,8 @@ A real-time, gamified leaderboard system built with React, Tailwind CSS, Framer 
 
 ### 📱 Mobile View
 
-![Mobile View](./public/mobile-screenshot.png)
+![Mobile View 1](./public/i1)
+![Mobile View 2](./public/i2)
 
 > Replace `public/mobile-screenshot.png` with your own screenshot for best results.
 
